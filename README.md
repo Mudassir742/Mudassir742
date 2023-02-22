@@ -1,4 +1,5 @@
 <!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/ea386478-aa67-4d4e-85d7-efa739d16d56.svg)](https://wakatime.com/@ea386478-aa67-4d4e-85d7-efa739d16d56)
 <!--END_SECTION:waka-->
 
 ### Hi there 👋
