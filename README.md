@@ -4,7 +4,7 @@
 
 ## Hi, I'm Mudassir Waheed 👋
 
-I'm a passionate and experienced full-stack web developer with expertise in React, Node.js, MongoDB, and FastAPI. With a strong foundation in web development and a curiosity for emerging technologies, I strive to create robust and scalable applications that deliver exceptional user experiences.
+I'm a passionate and experienced full-stack web developer with a strong foundation in web development and a curiosity for emerging technologies. I strive to create robust and scalable applications that deliver exceptional user experiences.
 
 ### 💻 Technologies & Tools
 
